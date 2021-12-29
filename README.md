@@ -6,9 +6,10 @@ Codes for MBot-One
     - Turn on forever
 
 2) PIDCode_Single.ino
-    - PID Control using optical encoders for ONE WHEEL ONLY
+    - PI Control using optical encoders for ONE WHEEL ONLY
     - Need to modify to accomodate 2nd wheel
     - Maintains real velocity
+    - D component not in code
 
 3) absEnc_trial.ino
     - Measures absolute position of offset pivot joint
